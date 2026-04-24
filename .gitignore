@@ -1,0 +1,26 @@
+build/
+
+# CMake
+CMakeUserPresets.json
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MSVC build artifacts
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+*.exe
+*.dll
+*.lib
+*.exp
